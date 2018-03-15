@@ -16,7 +16,7 @@ Depdencies: [Everything from this file](https://github.com/udacity/OAuth2.0/blob
 2. .Wsgi
 3. Apache
 
-##Getting the server up and running
+## Getting the server up and running
 1.created server instance
 2.SSH into server as root
 3.Created new users with sudo power
